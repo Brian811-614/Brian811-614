@@ -9,12 +9,18 @@ p {color:black;}
 h1 {color:white;}
 </style>
 <body>
-<h1><strong>Car parking multiplayer game discussing plant</strong></h1>
+<h1><strong>Car parking multiplayer game update info</strong></h1>
 <ul>
-New version 4.7.2(Android) 2.2.5(Ios)
-Update 5 cars
+<li style='color:white;>New version 4.7.2(Android) 2.2.5(Ios)</li>
 </ul>
 <h3> class
+<ol>
+<li>Dodge Viper</li>
+<li>Honda Civic 9gen</li>
+<li>BMW I8</li>
+<li>Mercedes Gt63</li>
+<li>Toyota Ae86</li>
+<li>Ford Crown Victoria</li>
 </ol>
 
 
